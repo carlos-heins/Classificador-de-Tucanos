@@ -1,2 +1,6 @@
 # Classificador-de-Tucanos
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlos-heins/Classificador-de-Tucanos/HEAD?labpath=%2Fvoila%2Frender%2Fclassificador-de-tucanos.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/carlos-heins-cl-ador-de-tucanos-jhcpzgs8/doc/tree/classificador-de-tucanos.ipynb)
+## IA criada para reconhecer e classificar 3 tipos de tucano:
+- Tucano (Ramphastos)
+- Tucano (Ramphastos)
+- Predição: Araçari (Pteroglossus)
